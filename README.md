@@ -9,7 +9,7 @@ Because I'm nice — and because this isn't a job interview — I'll give you a 
 Some other notes:
  - You may use JavaScript or jQuery — it's possible to solve the challenge using either.
  - The **only** file you need to alter is `js/homework.js`.
- - This is a challenge for you — not for your classmates, and not for your mentor. If you are struggling, reach out to Shereen or me. It's important that Shereen and I understand what we need to focus on, and it's much easier to gather that information if you are proactive and engage us.
+ - **This is a challenge for you — not for your classmates, and not for your mentor.** If you are struggling, reach out to Shereen or me. It's important that Shereen and I understand what we need to focus on, and it's much easier to gather that information if you are proactive and engage us.
 
 ## How to get started
 - Fork this repository to your GitHub account.
@@ -25,4 +25,4 @@ Some other notes:
 - Add, commit, and push all of your changes to your forked repository on GitHub.
 - Submit a Pull Request against my repository.
 
-# Good luck, and have fun!
+## Good luck, and have fun!
